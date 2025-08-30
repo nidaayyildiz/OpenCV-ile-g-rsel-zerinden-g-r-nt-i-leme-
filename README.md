@@ -1,4 +1,4 @@
-***GÖRSEL ÜZERİNDEN YAPILAN İŞLEMLER:
+GÖRSEL ÜZERİNDEN YAPILAN İŞLEMLER:
 - Arayüze görsel için ayrılmış alanda bulunan "Görsel Aç" butonuna tıklayarak dosyalarınızdan görsel seçebilirsiniz.
 -İşlemler 5 kategoriye ayrılmıştır.
 - Temel işlemlerde; mavi , yeşil ve kırmızı kanal ayarlanmaktadır. arka plandan nesne ayrılır nesne renkli mi gri mi ayrılacak seçilir.
